@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-11T20:22:26 IST" name="Suite" finished-at="2025-05-11T20:23:26 IST" duration-ms="59413">
+    <groups>
+    </groups>
+    <test started-at="2025-05-11T20:22:26 IST" name="Test" finished-at="2025-05-11T20:23:26 IST" duration-ms="59413">
+      <class name="com.smoketestcases.EbaySearchPageTest">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:com.smoketestcases.EbaySearchPageTest@292b08d6]" started-at="2025-05-11T20:22:53 IST" name="OpenBrowser" finished-at="2025-05-11T20:23:04 IST" duration-ms="11508" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="VerifySearchPage()[pri:0, instance:com.smoketestcases.EbaySearchPageTest@292b08d6]" started-at="2025-05-11T20:23:04 IST" name="VerifySearchPage" finished-at="2025-05-11T20:23:26 IST" duration-ms="21181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySearchPage -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:com.smoketestcases.EbaySearchPageTest@292b08d6]" started-at="2025-05-11T20:23:26 IST" name="CloseBrowser" finished-at="2025-05-11T20:23:26 IST" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- com.smoketestcases.EbaySearchPageTest -->
+      <class name="com.smoketestcases.EbayLandingPageTest">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:com.smoketestcases.EbayLandingPageTest@557caf28]" started-at="2025-05-11T20:22:26 IST" name="OpenBrowser" finished-at="2025-05-11T20:22:39 IST" duration-ms="12716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method signature="VerifyLandPageContents()[pri:0, instance:com.smoketestcases.EbayLandingPageTest@557caf28]" started-at="2025-05-11T20:22:39 IST" name="VerifyLandPageContents" finished-at="2025-05-11T20:22:40 IST" duration-ms="541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLandPageContents -->
+        <test-method signature="VerifyLandingPageDetails()[pri:0, instance:com.smoketestcases.EbayLandingPageTest@557caf28]" started-at="2025-05-11T20:22:40 IST" name="VerifyLandingPageDetails" finished-at="2025-05-11T20:22:53 IST" duration-ms="13193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLandingPageDetails -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:com.smoketestcases.EbayLandingPageTest@557caf28]" started-at="2025-05-11T20:22:53 IST" name="CloseBrowser" finished-at="2025-05-11T20:22:53 IST" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- com.smoketestcases.EbayLandingPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
